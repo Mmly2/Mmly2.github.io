@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>mlymlymly</title>
+    <link>mmllyy.github.io/</link>
+    <description>Recent content on mlymlymly</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Jun 2022 23:38:10 +0800</lastBuildDate>
+    
+        <atom:link href="mmllyy.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Firstblog</title>
+      <link>mmllyy.github.io/post/firstblog/</link>
+      <pubDate>Mon, 27 Jun 2022 23:38:10 +0800</pubDate>
+      
+      <guid>mmllyy.github.io/post/firstblog/</guid>
+      
+        <description>&lt;p&gt;我所遇到的问题：不会建库，不会配置环境变量
+解决方案：寻求舍友的帮助，在网上找教学视频，听老师讲解&lt;/p&gt;
+</description>
+      
+    </item>
+    
+  </channel>
+</rss>
